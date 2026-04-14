@@ -33,7 +33,7 @@ MonoBehaviour:
     m_Value: {x: 0.44995892, y: 0.45702985, z: 0.5}
   desiredLuxValue:
     m_OverrideState: 1
-    m_Value: 5000
+    m_Value: 2500
   updateMode:
     m_OverrideState: 0
     m_Value: 0
@@ -456,7 +456,7 @@ MonoBehaviour:
     m_Value: -0.053191632
   limitMax:
     m_OverrideState: 1
-    m_Value: 7.914893
+    m_Value: 8.280701
   curveMap:
     m_OverrideState: 0
     m_Value:
