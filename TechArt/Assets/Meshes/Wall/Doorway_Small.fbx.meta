@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b97276f77fc6c9e45af433cb517f183e
+guid: 01389402417cb8849b2b79f7b1e39f2d
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
@@ -12,8 +12,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: M_WallTrimSheet
-    second: {fileID: 2100000, guid: 9693bad5b3fc5784ead8e9351ddb7f8d, type: 2}
+      name: M_WoodDetailing_TS
+    second: {fileID: 2100000, guid: 1351a969ab4796649a52134f9e85c746, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -49,10 +49,10 @@ ModelImporter:
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
     importPhysicalCameras: 1
-    importVisibility: 0
-    importBlendShapes: 0
-    importCameras: 0
-    importLights: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
     nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
@@ -112,7 +112,7 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
-  importBlendShapeDeformPercent: 0
+  importBlendShapeDeformPercent: 1
   remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 

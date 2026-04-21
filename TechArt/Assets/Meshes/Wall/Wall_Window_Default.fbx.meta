@@ -7,6 +7,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: M_WallTile
+    second: {fileID: 2100000, guid: 9693bad5b3fc5784ead8e9351ddb7f8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: M_WallTrimSheet
     second: {fileID: 2100000, guid: 9693bad5b3fc5784ead8e9351ddb7f8d, type: 2}
   - first:
@@ -14,6 +19,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: M_WindowDetailing
     second: {fileID: 2100000, guid: 42e16c6b81185374da1a28480b40a370, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_WoodDetailing_TS
+    second: {fileID: 2100000, guid: 1351a969ab4796649a52134f9e85c746, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
