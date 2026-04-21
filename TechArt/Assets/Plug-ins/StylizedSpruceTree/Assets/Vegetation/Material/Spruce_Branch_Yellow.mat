@@ -31,7 +31,6 @@ Material:
   - _ALPHATEST_ON
   - _DISABLE_SSR_TRANSPARENT
   - _DOUBLESIDED_ON
-  - _MATERIAL_FEATURE_TRANSMISSION
   m_InvalidKeywords:
   - _MASKMAP
   - _NORMALMAP
@@ -58,7 +57,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_714f30f3628e48fb931a430f45576046_Texture_1_Texture2D:
-        m_Texture: {fileID: 2800000, guid: 561c922f02bef684babf90109b6ac5c8, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2766926ab7003204ab5dcc034ca1e4eb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_eb977b7a7ea8481aa2232c92205c952e_Texture_1_Texture2D:
