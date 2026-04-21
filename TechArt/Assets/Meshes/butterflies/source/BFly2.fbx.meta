@@ -3,7 +3,22 @@ guid: edcff0ea2b6a1994db547f88ba620268
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BFly_Blue
+    second: {fileID: 2100000, guid: d21be6eb099885d439a843c74b1556bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLy_Orange
+    second: {fileID: 2100000, guid: 2cb7fa81681c1f043857fe5a6ee13739, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: ddd7ba7aef57af645968f32019ace9fc, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
