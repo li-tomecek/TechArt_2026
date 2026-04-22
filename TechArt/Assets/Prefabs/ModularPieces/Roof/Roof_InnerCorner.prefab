@@ -278,6 +278,7 @@ GameObject:
   - component: {fileID: 2052584311730055043}
   - component: {fileID: 8002326131087945605}
   - component: {fileID: 3001495011448049863}
+  - component: {fileID: -6964349628809457165}
   m_Layer: 0
   m_Name: Roof_InnerCorner
   m_TagString: Untagged
@@ -359,6 +360,28 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &-6964349628809457165
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5834830313034604524}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 8819927111222329483, guid: 78652709a80b18c47be9a1d85ec659b9, type: 3}
 --- !u!1 &8120935429812583595
 GameObject:
   m_ObjectHideFlags: 0

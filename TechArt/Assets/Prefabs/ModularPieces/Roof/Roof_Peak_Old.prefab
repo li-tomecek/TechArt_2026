@@ -189,6 +189,7 @@ GameObject:
   - component: {fileID: 5185661568179636207}
   - component: {fileID: 2212372983704102772}
   - component: {fileID: 3643130266854037357}
+  - component: {fileID: -8763489474698481059}
   m_Layer: 0
   m_Name: Roof_Peak_Old
   m_TagString: Untagged
@@ -269,6 +270,28 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &-8763489474698481059
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6439848014468999873}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 2742248457859937736, guid: 78652709a80b18c47be9a1d85ec659b9, type: 3}
 --- !u!1 &6844106021594942119
 GameObject:
   m_ObjectHideFlags: 0
